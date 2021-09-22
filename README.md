@@ -1,5 +1,5 @@
  <h2>Hi, I’m Josiel de Castro.</h2>
-- 👀 I’m interested in Javascript, React and React native.<br>
+- 👀 I’m interested in Javascript, Angular, React and React native.<br>
 - 🌱 I’m currently learning Javascript, HTML and CSS.<br>
 
 <div>
