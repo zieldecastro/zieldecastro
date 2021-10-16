@@ -1,6 +1,7 @@
  <h2>Hi, I’m Josiel.</h2>
-- 👀 I’m interested in Javascript, Angular, React and React native.<br>
-- 🌱 I’m currently learning Javascript, HTML and CSS.<br>
+- 👀 I’m interested in learning and evolving as a frontend programmer.<br>
+- 🌱 I’m currently learning Javascript, React, HTML and CSS.<br>
+- 👀 Please feel free to see the projects made by me.<br>
 
 <div>
   <a href="https://github.com/zieldecastro">
